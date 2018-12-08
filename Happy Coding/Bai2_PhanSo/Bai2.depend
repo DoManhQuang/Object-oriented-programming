@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1321191237 source:d:\quang_fox\bai2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
